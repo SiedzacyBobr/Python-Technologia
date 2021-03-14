@@ -1,9 +1,11 @@
-def funkcja_testowa():
-    print("hello_world")
+def test_func2():
+    print("program2.py hello_world")
 
-def funkcja_2():
-    print("test1")
+
+def test_func3(*, word1: str, word2: str) -> dict:
+    print(f"word1>{word1}, word2>{word2}")
+    return {'word1': word1, 'word2': word2}
+
 
 if __name__ == '__main__':
     print(f"uruchomilismy modul program {__name__}")
-    liczba = 1
