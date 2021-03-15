@@ -6,3 +6,8 @@ ctrl+j > m > enter
 ctrl+shift+f10 - utworz plik konfiguracyjny do otwartego programu i uruchom w konsoli
 ctrl+shift+u uppercase
 alt+j multi kursor
+
+pip3 install <pakiet>
+pip3 uninstall <pakiet>
+pip3 freeze
+pip3 freeze > requirements.txt
