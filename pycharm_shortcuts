@@ -18,6 +18,6 @@ cd <folder> zmiana katalogu na inny
 cd .. jeden katalog w gore
 cp, rm, mv, ls
 
-../../Database2/program.py
+../../Database4/program.py
 
 test
